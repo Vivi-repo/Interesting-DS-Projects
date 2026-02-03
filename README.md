@@ -64,10 +64,8 @@ bank_fraud_detection/
 ├─ train_models.py         # Machine learning training and evaluation pipeline
 ├─ insights.py             # Feature importance and SHAP analysis
 ├─ predict.py              # Fraud prediction module
-├─ notebooks/
-│   └─ exploration.ipynb   # Jupyter notebook for experimentation and testing
 ├─ data/
-│   └─ synthetic_data.csv  # Optional pre-generated synthetic dataset
+│   └─ sample_data.csv  # Optional pre-generated synthetic dataset
 ├─ requirements.txt        # Python dependencies
 └─ README.md               # Project documentation
 
